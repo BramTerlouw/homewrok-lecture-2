@@ -1,0 +1,3 @@
+Studentname: Bram Terlouw
+StudentNumber: 614992
+StudentClass: INFA-2
